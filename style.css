@@ -1,0 +1,13 @@
+div{
+    width: 100%;
+}
+    canvas {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+  }
+
+body{
+    text-align: center;
+    background-size: cover;
+}  
